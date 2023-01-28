@@ -1,1 +1,1 @@
-This is file2 insert conflict
+This is file2 insert conflict at local
